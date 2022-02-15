@@ -1,0 +1,14 @@
+{
+  "name": "team",
+  "version": "1.0.0",
+  "description": "This is a rest api for react developers",
+  "main": "index.js",
+  "scripts": {
+    "rohan"   : "json-server --watch db.json --port 5010"
+  },
+  "author": "Rohan Mostofa",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
